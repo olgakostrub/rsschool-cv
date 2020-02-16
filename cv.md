@@ -53,15 +53,14 @@
 * Webpack - Intermediate (some experience)
 * Docker - Beginner 
 
-
 # 5. Code examples 
 As part of local project working on full-stack study group, I have created a component and container for it:
 * LabelItem:
-	* 
-	* 
-* LabelsTab: 
-	* 
-	* 
+	* [JSX] (https://github.com/olgakostrub/rsschool-cv/blob/gh-pages/LabelItem/index.jsx) 
+	* [Styles] (https://github.com/olgakostrub/rsschool-cv/blob/gh-pages/LabelItem/styles.module.scss)
+* LabelsTab (container for LabelItem): 
+	* [JSX] (https://github.com/olgakostrub/rsschool-cv/blob/gh-pages/LabelsTab/index.jsx)
+	* [Styles]: (https://github.com/olgakostrub/rsschool-cv/blob/gh-pages/LabelsTab/styles.module.scss)
 
 # 6. Experience 
 * Workload management system for Electronics Department at the university 
@@ -72,7 +71,6 @@ As part of local project working on full-stack study group, I have created a com
 	* HTML5, CSS3, AngularJS, MySQL, Apache, Wordnet API, Wordnik API, Wiktionary API
 	* developed a word selection algorithm for quiz, interactive submission of variants, quiz content generation, 
 UI for vocabulary quiz, import of vocabulary data from open sources, semantic connections between word groups
-
 
 # 7. Education
 * East-Ukrainian University - Master of Applied Mathematics 
