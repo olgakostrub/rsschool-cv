@@ -1,0 +1,9 @@
+body {
+    margin: 0 auto;
+    max-width: 1024px; 
+    position: relative;
+}
+
+.name {
+    font-weight: bold; 
+}
